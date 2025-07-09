@@ -180,8 +180,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [sudhamsalagar@gmail.com](mailto:your.email@example.com)
 
-Project Link: [https://github.com/sudhamsalagar123/SENSOTRAIN_INTERN](https://github.com/sudhamsalagar123/customer-churn-prediction)
-
 ## 🙏 Acknowledgments
 
 - Dataset source: [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
