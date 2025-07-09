@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [sudhamsalagar@gmail.com](mailto:your.email@example.com)
 
-Project Link: [https://github.com/sudhamsalagar123/SENSOTRAIN_INTERN/customer-churn-prediction](https://github.com/yourusername/customer-churn-prediction)
+Project Link: [https://github.com/sudhamsalagar123/SENSOTRAIN_INTERN/blob/main/Customer_churn_prediction.ipynb](https://github.com/yourusername/customer-churn-prediction)
 
 ## 🙏 Acknowledgments
 
