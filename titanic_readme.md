@@ -54,7 +54,7 @@ The Titanic dataset contains information about 891 passengers with the following
 ### Local Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/titanic-eda-ml.git
+git clone https://github.com/sudhamsalagar123/SENSOTRAIN_INTERN/titanic-eda-ml.git
 cd titanic-eda-ml
 
 # Install required packages
@@ -228,14 +228,3 @@ titanic-eda-ml/
 - **Visual Storytelling:** Clear, informative plots that tell the survival story
 - **ML Implementation:** Multiple algorithms with proper evaluation
 - **Real-world Application:** Historical disaster analysis with modern data science
-
-## 📧 Contact
-
-Feel free to reach out for questions or collaborations:
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-
----
-
-*This project demonstrates proficiency in data analysis, visualization, and machine learning using Python. The Titanic dataset serves as an excellent case study for understanding how socioeconomic factors influenced survival during historical disasters.*
